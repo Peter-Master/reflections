@@ -9,3 +9,17 @@ How is the staging area different from the working directory and the repository?
 	The staging area allows the programmer to decide what should be commited to the repository from the working
 directory. It allows the programmer to not have to commit everything in the working directory to the repository
 everytime that the programmer wants to commit something(s).
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	The programmer can use the staging area to choose exactly which files to submit to be committed.
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you want to create break-offs in the development of your program, say to create a Spanish version of
+your software or build an easier game mode. Creating these break-offs would allow you to develop your main program
+as well as the break-offs individually.
